@@ -1,0 +1,90 @@
+{
+    "201": {
+        "name": "honda",
+        "admins": [
+            "raja",
+            "nathan"
+        ],
+        "members": [
+            "raja",
+            "nathan"
+        ],
+        "roles": {
+            "raja": "Driver",
+            "nathan": "Mechanic"
+        },
+        "pending": [],
+        "pending_roles": {},
+        "messages": [
+            {
+                "user": "raja",
+                "msg": "aGk=",
+                "time": "21:04",
+                "is_encrypted": true,
+                "role": "Founder"
+            },
+            {
+                "user": "nathan",
+                "msg": "aGk=",
+                "time": "21:10",
+                "is_encrypted": true,
+                "role": "Mechanic"
+            }
+        ],
+        "read_status": {
+            "raja": 2,
+            "nathan": 2
+        }
+    },
+    "202": {
+        "name": "speed",
+        "admins": [
+            "raja",
+            "nathan"
+        ],
+        "members": [
+            "raja",
+            "nathan"
+        ],
+        "roles": {
+            "raja": "Founder",
+            "nathan": "Driver"
+        },
+        "pending": [],
+        "pending_roles": {},
+        "messages": [
+            {
+                "user": "raja",
+                "msg": "aGV5",
+                "time": "21:16",
+                "is_encrypted": true,
+                "role": "Founder"
+            },
+            {
+                "user": "raja",
+                "msg": "",
+                "time": "21:16",
+                "is_encrypted": true,
+                "role": "Founder"
+            },
+            {
+                "user": "raja",
+                "msg": "aGVsbG8=",
+                "time": "21:36",
+                "is_encrypted": true,
+                "role": "Founder"
+            },
+            {
+                "user": "nathan",
+                "msg": "aGVsbA==",
+                "time": "21:37",
+                "is_encrypted": true,
+                "role": "Mechanic"
+            }
+        ],
+        "read_status": {
+            "raja": 4,
+            "nathan": 4
+        }
+    }
+}

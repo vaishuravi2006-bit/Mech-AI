@@ -1,0 +1,158 @@
+Vehicle_Type,Problem,Symptoms,Cause,Solution,,
+Bike,Hard Start,Needs many kicks or self,"Weak battery, clogged fuel",1. Charge battery. 2. Clean fuel line. 3. Check spark plug,,
+Bike,No Start,Engine not starting,"Dead battery, no fuel, sensor fault",1. Check battery. 2. Check fuel pump. 3. Inspect crank sensor,,
+Bike,Engine Cuts While Riding,Sudden stop on road,"Fuel blockage, injector fault",1. Clean fuel filter. 2. Clean injector. 3. Check wiring,,
+Bike,Low Pickup,Poor acceleration,"Dirty air filter, injector clog",1. Clean air filter. 2. Clean injector. 3. Check throttle body,,
+Bike,Engine Jerking,Pulling feeling,"Water in fuel, misfire",1. Drain fuel. 2. Replace plug. 3. Check ignition coil,,
+Bike,Over Heating,Engine too hot,"Low coolant, low oil",1. Fill coolant. 2. Check oil. 3. Inspect fan,,
+Bike,Excess Vibration,Handle shakes,"Loose bolts, worn mounts",1. Tighten bolts. 2. Replace mounts. 3. Balance wheel,,
+Bike,Strange Engine Noise,Tick tick sound,Valve clearance issue,1. Adjust valves. 2. Inspect cam chain. 3. Check oil,,
+Bike,Smoke From Exhaust,Blue or black smoke,"Oil burning, rich mixture",1. Tune carb. 2. Replace rings. 3. Check PCV,,
+Bike,Petrol Smell,Fuel odor near bike,Leaking fuel pipe,1. Replace fuel pipe. 2. Tighten clamps. 3. Check tank cap,,
+Bike,Poor Mileage,Consumes more fuel,"Low tyre pressure, tuning issue",1. Inflate tyres. 2. Tune engine. 3. Clean injector,,
+Bike,Self Motor Weak,Slow crank,"Weak battery, worn starter",1. Charge battery. 2. Replace starter. 3. Check relay,,
+Bike,Starter Button Not Working,No response on press,"Dirty switch, wire cut",1. Clean switch. 2. Repair wiring. 3. Replace switch,,
+Bike,Clutch Slipping,RPM high no speed,Worn clutch plates,1. Adjust clutch cable. 2. Replace plates. 3. Check springs,,
+Bike,Gear Hard,Difficulty changing gear,"Low gear oil, worn parts",1. Refill oil. 2. Adjust linkage. 3. Inspect gearbox,,
+Bike,Chain Noise,Clack sound while moving,Dry or loose chain,1. Lubricate chain. 2. Adjust tension. 3. Replace sprocket,,
+Bike,Brake Not Effective,Long stopping distance,"Worn brake pads, air in line",1. Replace pads. 2. Bleed brakes. 3. Check disc,,
+Bike,Brake Noise,Squealing sound,Glazed pads,1. Clean pads. 2. Replace pads. 3. Apply grease,,
+Bike,Tyre Puncture,Air loss,Nail or cut,1. Patch tube. 2. Replace tyre. 3. Check rim,,
+Bike,Handle Pulling One Side,Bike not straight,Wheel alignment issue,1. Align wheels. 2. Check fork. 3. Balance tyre,,
+Bike,Front Fork Leak,Oil near wheel,Damaged fork seal,1. Replace seal. 2. Refill oil. 3. Inspect bushings,,
+Bike,Rear Shock Hard,Bumpy ride,Worn suspension,1. Adjust preload. 2. Replace shock. 3. Inspect swingarm,,
+Bike,Headlight Dim,Low visibility,"Weak battery, bulb issue",1. Replace bulb. 2. Charge battery. 3. Check wiring,,
+Bike,Indicator Not Blinking,No flash,"Relay fault, bulb blown",1. Replace relay. 2. Replace bulb. 3. Check fuse,,
+Bike,Horn Weak,Low sound,"Low voltage, horn fault",1. Charge battery. 2. Replace horn. 3. Clean terminals,,
+Bike,Speedometer Not Working,Speed shows zero,"Cable broken, sensor issue",1. Replace cable. 2. Check sensor. 3. Inspect wiring,,
+Bike,Fuel Gauge Wrong,Shows wrong level,Float stuck,1. Clean sender. 2. Replace unit. 3. Check wiring,,
+Bike,Seat Not Locking,Seat opens,Broken lock,1. Repair lock. 2. Replace latch. 3. Adjust cable,,
+Bike,Side Stand Loose,Bike tilts too much,Spring worn,1. Replace spring. 2. Tighten bolts. 3. Check stand,,
+Bike,Mirror Loose,Mirror shakes,Loose thread,1. Tighten mirror. 2. Apply thread lock. 3. Replace clamp,,
+Bike,Front Suspension Noise,Clunk on bumps,"Worn bush, loose bolts",1. Tighten bolts. 2. Replace bush. 3. Inspect fork,,
+Bike,Rear Suspension Noise,Noise from rear,Worn shock bush,1. Replace bush. 2. Service shock. 3. Check linkage,,
+Bike,Steering Vibration,Handle vibrates at speed,Wheel imbalance,1. Balance wheel. 2. Check tyre. 3. Align fork,,
+Bike,Chain Slip,Jumping while riding,"Loose chain, worn sprocket",1. Adjust chain. 2. Replace sprocket. 3. Lubricate,,
+Bike,Throttle Stuck,Throttle not returning,"Dirty cable, frayed wire",1. Clean cable. 2. Lubricate. 3. Replace cable,,
+Bike,Engine Stalling Idle,Stops at signal,"Dirty throttle body, sensor fault",1. Clean throttle body. 2. Adjust idle. 3. Check TPS,,
+Bike,Fuel Leak,Petrol dripping,"Cracked hose, loose clamp",1. Replace hose. 2. Tighten clamp. 3. Inspect tank,,
+Bike,Battery Drains Fast,Battery dead overnight,"Regulator fault, wiring short",1. Check regulator. 2. Inspect wiring. 3. Replace battery,,
+Bike,Charging Problem,Battery not charging,"Stator fault, rectifier bad",1. Voltage test. 2. Replace rectifier. 3. Check stator,,
+Bike,ABS Light On,ABS warning on dash,"Dirty sensor, wiring fault",1. Clean sensor. 2. Check wiring. 3. Reset ECU,,
+Bike,Injector Clog,"Misfire, rough idle","Dirty fuel, carbon buildup",1. Use cleaner. 2. Ultrasonic clean. 3. Replace injector,,
+Bike,ECU Error Light,Check engine light,"Sensor fault, loose connector",1. Scan codes. 2. Fix sensor. 3. Clear memory,,
+Bike,Engine Over Rev,RPM rises without speed,"Clutch worn, cable tight",1. Adjust clutch cable 2. Replace clutch plates 3. Inspect springs,,
+Bike,Cold Start Problem,Starts only when warm,Choke system faulty,1. Inspect choke 2. Clean carb 3. Adjust idle screw,,
+Bike,Backfire Sound,Pop sound from exhaust,"Lean mixture, exhaust leak",1. Adjust mixture 2. Seal exhaust joint 3. Tune carb,,
+Bike,Brake Lever Hard,Brake not smooth,Master cylinder jam,1. Service master cylinder 2. Bleed brakes 3. Replace seals,,
+Bike,Wheel Wobble,Tyre shakes at speed,"Bent rim, loose spokes",1. True rim 2. Tighten spokes 3. Balance wheel,,
+Bike,Handle Not Center,Handle tilted,Fork misalignment,1. Realign fork 2. Tighten clamps 3. Check bearings,,
+Bike,Chain Rusted,Noise and drag,"No lubrication, water damage",1. Clean chain 2. Lubricate properly 3. Replace if stiff,,
+Bike,Seat Vibrates,Seat shaking,Loose frame bolts,1. Tighten mounting bolts 2. Replace rubber bushings,,
+Bike,Side Stand Switch Fault,Bike won’t start on stand,Switch stuck,1. Clean switch 2. Bypass test 3. Replace switch,,
+Bike,Rear Brake Locking,Wheel locks suddenly,Caliper piston jam,1. Service caliper 2. Replace seals 3. Flush brake fluid,,
+Car,Car Not Starting,Key turns but no start,"Dead battery, starter fault, fuel issue",1. Check battery voltage. 2. Inspect starter motor. 3. Check fuel pump fuse,,
+Car,Slow Cranking,Engine turns slowly,"Weak battery, corroded terminals",1. Clean terminals. 2. Test battery. 3. Replace battery if weak,,
+Car,Engine Stalling,Stops while driving,"Fuel blockage, sensor fault",1. Replace fuel filter. 2. Check crank sensor. 3. Inspect wiring,,
+Car,Low Pickup,Poor acceleration,"Dirty air filter, injector clog",1. Replace air filter. 2. Clean injectors. 3. Check throttle body,,
+Car,Engine Jerking,Shaking while moving,"Misfire, bad spark plug, coil fault",1. Replace spark plugs. 2. Test ignition coils. 3. Scan ECU,,
+Car,Overheating,Temperature rises,"Low coolant, radiator blockage, fan fault",1. Fill coolant. 2. Clean radiator. 3. Check cooling fan,,
+Car,Smoke From Exhaust,Black/blue smoke,"Oil burning, rich mixture",1. Check PCV valve. 2. Tune fuel mixture. 3. Inspect piston rings,,
+Car,Poor Mileage,Consumes more fuel,"Low tyre pressure, tuning issue, sensor fault",1. Inflate tyres. 2. Engine tuning. 3. Check O2 sensor,,
+Car,Petrol Smell,Fuel smell inside/outside,"Fuel pipe leak, loose cap",1. Inspect fuel lines. 2. Tighten/replace cap. 3. Replace hose,,
+Car,AC Not Cooling,Warm air from AC,"Low gas, compressor fault, filter blocked",1. Refill gas. 2. Clean cabin filter. 3. Inspect compressor,,
+Car,AC Noise,Grinding sound from AC,"Worn AC bearing, loose belt",1. Check belt tension. 2. Replace bearing. 3. Align pulley,,
+Car,Brake Weak,Long stopping distance,"Worn brake pads, air in line",1. Replace pads. 2. Bleed brakes. 3. Check master cylinder,,
+Car,Brake Noise,Squealing sound,"Glazed pads, dust",1. Clean pads. 2. Apply anti-squeal shim. 3. Replace pads,,
+Car,Steering Pulling,Car moves one side,"Wheel alignment, tyre issue",1. Wheel alignment. 2. Check tyre pressure. 3. Inspect suspension,,
+Car,Steering Hard,Hard to turn,"Low power steering oil, pump fault",1. Fill PS fluid. 2. Inspect belt. 3. Test PS pump,,
+Car,Clutch Slipping,RPM high but slow speed,"Worn clutch plate, weak spring",1. Adjust clutch cable. 2. Replace clutch plate. 3. Inspect flywheel,,
+Car,Gear Hard,Difficult shifting,"Low transmission oil, linkage issue",1. Refill gear oil. 2. Adjust linkage. 3. Inspect synchros,,
+Car,Car Vibrates,Body shakes,"Unbalanced wheels, mounts worn",1. Wheel balancing. 2. Inspect engine mounts. 3. Alignment check,,
+Car,Tyre Puncture,Air loss,"Nail, sidewall cut",1. Patch tyre. 2. Replace tyre if damaged. 3. Check rim,,
+Car,Headlight Dim,Low light,"Weak battery, bulb fault, wiring loss",1. Replace bulb. 2. Check ground wiring. 3. Test alternator,,
+Car,Indicators Not Working,No blinking,"Relay fault, bulb blown",1. Replace relay. 2. Replace bulb. 3. Check fuse,,
+Car,Horn Not Working,No sound,"Horn faulty, wiring issue",1. Check fuse. 2. Test horn. 3. Repair wiring,,
+Car,Wipers Not Working,No wipe during rain,"Motor failure, fuse blown",1. Replace fuse. 2. Test motor. 3. Replace linkage,,
+Car,Power Windows Stuck,Window not moving,Motor or switch fault,1. Check switch. 2. Test motor. 3. Replace regulator,,
+Car,Central Lock Not Working,Doors not locking,"Actuator failure, remote battery",1. Replace remote battery. 2. Test actuator. 3. Repair wiring,,
+Car,Check Engine Light,Warning on dashboard,"Sensor error, misfire",1. Scan OBD codes. 2. Fix sensor. 3. Clear ECU memory,,
+Car,Battery Drains Fast,Battery dead overnight,"Parasitic drain, alternator fault",1. Parasitic draw test. 2. Check alternator. 3. Replace battery,,
+Car,Charging Problem,Battery not charging,"Bad alternator, loose belt",1. Voltage test. 2. Tighten belt. 3. Replace alternator,,
+Car,Oil Leak,Oil under car,Seal or gasket damaged,1. Locate leak. 2. Replace gasket. 3. Tighten bolts,,
+Car,Coolant Leak,Coolant under car,"Hose crack, clamp loose",1. Pressure test system. 2. Replace hose. 3. Tighten clamps,,
+Car,Fuel Gauge Wrong,Wrong reading,"Sender unit stuck, wiring fault",1. Test sender. 2. Clean contacts. 3. Replace unit,,
+Car,Speedometer Dead,Speed not shown,"Sensor fault, wiring issue",1. Test speed sensor. 2. Repair wiring. 3. Replace sensor,,
+Car,Reverse Gear Issue,Reverse not engaging,"Linkage problem, clutch drag",1. Adjust linkage. 2. Bleed clutch. 3. Inspect gearbox,,
+Car,Car Pulls While Braking,Moves side while braking,"Uneven pads, caliper stuck",1. Service caliper. 2. Replace pads. 3. Check brake hoses,,
+Car,Strange Smell Inside,Burning smell,"Wiring short, oil leak",1. Inspect wiring. 2. Fix oil leak. 3. Clean engine bay,,
+Car,Front Suspension Noise,Clunk sound on bumps,"Worn strut mount, loose bolts",1. Inspect strut mounts. 2. Tighten bolts. 3. Replace mounts,,
+Car,Rear Suspension Noise,Noise from rear on bumps,"Worn bushings, shock failure",1. Inspect bushings. 2. Replace shocks. 3. Check links,,
+Car,Car Bounces Too Much,Car keeps bouncing,Worn shock absorbers,1. Bounce test. 2. Replace shocks. 3. Wheel alignment,,
+Car,Uneven Tyre Wear,Tyres wearing one side,"Bad alignment, worn suspension",1. Alignment check. 2. Replace worn joints. 3. Rotate tyres,,
+Car,Steering Wheel Vibration,Vibrates at high speed,"Wheel imbalance, bent rim",1. Wheel balancing. 2. Inspect rims. 3. Replace tyre,,
+Car,Car Sags One Side,One side lower,Broken spring,1. Inspect coil spring. 2. Replace spring. 3. Alignment,,
+Car,Shock Absorber Leak,Oil near wheel,Seal failure,1. Inspect shocks. 2. Replace strut. 3. Check mounts,,
+Car,Stabilizer Bar Noise,Rattle on uneven road,Worn sway bar links,1. Inspect links. 2. Replace bushings. 3. Tighten bolts,,
+Car,Pull While Accelerating,Car drifts on throttle,Worn control arm bush,1. Inspect control arms. 2. Replace bush. 3. Align wheels,,
+Car,Bottoming Out,Hits body on bumps,"Weak springs, overload",1. Replace springs. 2. Reduce load. 3. Inspect bump stops,,
+Car,Loose Feeling Steering,Play in steering,"Worn tie rods, rack issue",1. Inspect tie rods. 2. Replace ends. 3. Check rack,,
+Car,Knocking Over Speed Breaker,Knock noise on bump,Ball joint wear,1. Inspect ball joints. 2. Replace joints. 3. Alignment,,
+Car,Rough Idle,Engine shakes at idle,"Dirty throttle body, vacuum leak",1. Clean throttle body 2. Check vacuum hoses 3. Reset idle,,
+Car,Engine Misfire,Jerking with check light,"Bad spark plug, injector fault",1. Replace spark plugs 2. Test injectors 3. Scan ECU,,
+Car,Fan Not Working,Engine heats in traffic,Cooling fan motor fault,1. Check fan relay 2. Test motor 3. Replace fan,,
+Car,AC Gas Leak,AC cools then stops,Leaking AC hose or seal,1. Leak test 2. Replace seal 3. Refill refrigerant,,
+Car,Door Not Closing,Door won’t latch,Worn latch mechanism,1. Adjust striker 2. Lubricate latch 3. Replace latch,,
+Car,Remote Not Working,Key remote dead,Remote battery empty,1. Replace battery 2. Reprogram remote 3. Check receiver,,
+Car,Car Won’t Lock,Locks cycle but fail,Door actuator failure,1. Replace actuator 2. Inspect wiring 3. Test module,,
+Car,Sunroof Jammed,Sunroof stuck open,"Track dirty, motor weak",1. Clean track 2. Lubricate rails 3. Test motor,,
+Car,Radiator Fan Noise,Loud fan sound,Fan bearing worn,1. Inspect fan blades 2. Replace motor 3. Secure mount,,
+Car,Idle High,RPM too high,Idle air control fault,1. Clean IAC valve 2. Reset ECU 3. Replace sensor,,
+Truck,Heavy Vehicle,Engine,Engine Hunting,Fluctuating RPM,Sensor calibration issue,1. Scan ECU 2. Recalibrate sensor 3. Inspect wiring
+Truck,Heavy Vehicle,Engine,Cold Start Failure,Hard start in morning,Glow plug faulty,1. Test glow plugs 2. Replace faulty plug
+Truck,Heavy Vehicle,Engine,High Oil Consumption,Oil level drops fast,Worn piston rings,1. Compression test 2. Replace rings 3. Inspect liners
+Truck,Heavy Vehicle,Electrical,ECU Communication Loss,No scan connection,Wiring CAN fault,1. Inspect CAN lines 2. Repair connectors 3. Reset ECU
+Truck,Heavy Vehicle,Electrical,Relay Failure,Random shutdown,Burnt relay,1. Replace relay 2. Inspect socket
+Truck,Heavy Vehicle,Fuel,Water in Diesel,Engine misfires,Contaminated fuel,1. Drain tank 2. Replace filter 3. Bleed system
+Truck,Heavy Vehicle,Fuel,Fuel Pressure Low,Power drops under load,Weak pump,1. Pressure test 2. Replace pump 3. Inspect regulator
+Truck,Heavy Vehicle,Transmission,Clutch Drag,Gears grind,Clutch not disengaging,1. Bleed clutch 2. Adjust linkage 3. Replace slave cylinder
+Truck,Heavy Vehicle,Braking,Brake Overheat,Burning smell,Worn linings,1. Inspect drums 2. Replace linings 3. Adjust slack
+Truck,Heavy Vehicle,Steering,Power Steering Leak,Oil under front,Worn hose,1. Replace hose 2. Top up oil 3. Inspect pump
+Truck,Heavy Vehicle,Engine,Hard Starting,Engine cranks slow,Weak battery or bad starter,1. Charge/replace battery 2. Check starter motor
+Truck,Heavy Vehicle,Engine,Engine Overheating,Temperature high,Coolant leak or blocked radiator,1. Top up coolant 2. Clean radiator 3. Check fan
+Truck,Heavy Vehicle,Engine,Low Power,Truck struggles on load,Clogged air or fuel filter,1. Replace air filter 2. Replace fuel filter
+Truck,Heavy Vehicle,Engine,Excess Smoke,Black/blue smoke,Injector or piston wear,1. Service injectors 2. Inspect engine
+Truck,Heavy Vehicle,Engine,Engine Knocking,Metal noise under load,Low oil pressure,1. Check oil level 2. Inspect bearings
+Truck,Heavy Vehicle,Engine,Oil Leak,Oil under truck,Worn gasket or seal,1. Replace gasket 2. Tighten bolts
+Truck,Heavy Vehicle,Engine,Turbo Failure,Loss of boost,Boost leak or worn turbo,1. Inspect hoses 2. Repair/replace turbo
+Truck,Heavy Vehicle,Engine,Stalling,Engine stops suddenly,Sensor or fuel issue,1. Check fuel line 2. Scan ECU
+Truck,Heavy Vehicle,Electrical,Battery Drain,Battery dies overnight,Parasitic load,1. Inspect wiring 2. Replace battery
+Truck,Heavy Vehicle,Electrical,Alternator Failure,Battery not charging,Bad alternator,1. Replace alternator 2. Check belt
+Truck,Heavy Vehicle,Electrical,Headlight Dim,Poor visibility,Low voltage or bad wiring,1. Check battery 2. Replace bulb
+Truck,Heavy Vehicle,Electrical,Dashboard Warning Light,Error shown,Sensor fault,1. Scan ECU 2. Replace faulty sensor
+Truck,Heavy Vehicle,Electrical,Starter Motor Fault,No crank,Worn brushes,1. Repair starter 2. Replace motor
+Truck,Heavy Vehicle,Electrical,ABS Light On,ABS warning,Sensor dirty or damaged,1. Clean sensor 2. Replace if needed
+Truck,Heavy Vehicle,Electrical,Horn Not Working,No sound,Relay or wiring fault,1. Replace relay 2. Check wiring
+Truck,Heavy Vehicle,Fuel,Injector Clog,Poor pickup,Dirty injectors,1. Clean injectors 2. Replace if blocked
+Truck,Heavy Vehicle,Fuel,Fuel Pump Failure,Engine not starting,Faulty pump,1. Replace fuel pump 2. Check wiring
+Truck,Heavy Vehicle,Fuel,Fuel Leak,Diesel smell,Loose hose,1. Tighten hose 2. Replace damaged pipe
+Truck,Heavy Vehicle,Fuel,Poor Mileage,High fuel use,Sensor or filter issue,1. Replace filter 2. Tune engine
+Truck,Heavy Vehicle,Fuel,Air in Fuel Line,Engine sputters,Loose fuel line,1. Tighten lines 2. Bleed system
+Truck,Heavy Vehicle,Transmission,Clutch Slipping,High RPM no power,Worn clutch plate,1. Replace clutch plate
+Truck,Heavy Vehicle,Transmission,Hard Gear Shift,Difficult shifting,Low gear oil,1. Check gear oil 2. Replace synchronizers
+Truck,Heavy Vehicle,Transmission,Propeller Shaft Noise,Thudding sound,Worn joints,1. Replace U-joint 2. Balance shaft
+Truck,Heavy Vehicle,Transmission,Differential Noise,Whining sound,Worn gears,1. Replace gear oil 2. Inspect differential
+Truck,Heavy Vehicle,Braking,Brake Weak,Long stopping distance,Worn pads,1. Replace brake pads 2. Adjust brakes
+Truck,Heavy Vehicle,Braking,Brake Noise,Squealing,Glazed pads,1. Clean or replace pads
+Truck,Heavy Vehicle,Braking,Air Brake Failure,Brake not holding,Air leak,1. Check air lines 2. Repair compressor
+Truck,Heavy Vehicle,Braking,Brake Pulling,Truck pulls sideways,Uneven brake force,1. Adjust brakes 2. Inspect calipers
+Truck,Heavy Vehicle,Suspension,Leaf Spring Broken,Truck tilts,Cracked spring,1. Replace leaf spring
+Truck,Heavy Vehicle,Suspension,Shock Absorber Leak,Harsh ride,Worn seals,1. Replace shock absorber
+Truck,Heavy Vehicle,Suspension,Suspension Noise,Clunk on bumps,Worn bushings,1. Replace bushings 2. Tighten bolts
+Truck,Heavy Vehicle,Suspension,Wheel Alignment Issue,Truck pulls one side,Misalignment,1. Align wheels
+Truck,Heavy Vehicle,Steering,Steering Hard,Heavy turning,Low power steering oil,1. Top up oil 2. Check pump
+Truck,Heavy Vehicle,Steering,Steering Vibration,Shaking at speed,Unbalanced wheels,1. Balance tyres 2. Inspect suspension
+Truck,Heavy Vehicle,Steering,Steering Noise,Whining sound,Worn pump,1. Replace pump 2. Check belt
+Truck,Heavy Vehicle,Tyre,Tyre Puncture,Air loss,Nail or cut,1. Patch tyre 2. Replace if damaged
+Truck,Heavy Vehicle,Tyre,Uneven Tyre Wear,Noise while driving,Alignment issue,1. Align wheels 2. Rotate tyres
+Truck,Heavy Vehicle,Tyre,Tyre Burst Risk,Bulge seen,Overload,1. Replace tyre 2. Maintain pressure

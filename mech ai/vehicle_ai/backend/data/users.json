@@ -1,0 +1,39 @@
+{
+    "admin": {
+        "password": "scrypt:32768:8:1$52MzzIo01YoJzmPT$556fdad60326c95499dea5534793ae1cd944c0b06a0763dcb4db29c4f2f7bad6c1199458448ee0e166009657316b9529f96fb1e31b26c2236c46bd042588cfa9",
+        "joined": "2026-02-08",
+        "pending_reqs": []
+    },
+    "thillai": {
+        "password": "scrypt:32768:8:1$OknFNowov9wZFZSB$188f8caf66436f139fb9bf8c37d7fe6ce874690e2ea05ff801ed85e0dd1f1b6c22ea53e84af57082fa90f446a00b543c7493ee95557a0d74cd99beab4fba8cab",
+        "joined": "2026-02-08",
+        "role": "user",
+        "pending_reqs": []
+    },
+    "raja": {
+        "password": "scrypt:32768:8:1$atup5NhftjRfOFUz$0b6a4c5f5a60fad8031e3804ec3859bd14451759b1308b70dad22a4b060a7d120791e72d03ac314ef400638187065916ae5e5a33e474ae8a95b6832ace1c54b9",
+        "pin": "scrypt:32768:8:1$036t3fwmP99MTgFB$64f24be1b289c5935744dd14188a1f0d75ef995f845ba3a30771cf26cff03c8d9ed7d5bc79e18e07befed2d3af8bae0c0db88d0d2d5bd2c696ec105ba861198a",
+        "joined": "2026-02-08",
+        "role": "user",
+        "vehicles": [
+            {
+                "name": "rx135",
+                "type": "Bike"
+            }
+        ],
+        "pending_reqs": [],
+        "connections": [
+            "nathan"
+        ]
+    },
+    "nathan": {
+        "password": "scrypt:32768:8:1$muBwPYA2RHsNnKc8$af731a01ba0b40d2bf9d82ef0d9b4e29b8596edfe7daaaac1f821164568a4be418fd52d6bfdf2fb2636ca3834146aecbfdd9c45a2dbd13aa3f09140e972fdaa2",
+        "pin": "scrypt:32768:8:1$penarktfm8mOon1z$2116334cdee6beacd930086283aa532f8c9a36c26d965887c8fd811ec52bdaaac121b0e1e787498675e57f37d7d0b302ab69f665cdc00c5d732ae333c4388971",
+        "joined": "2026-02-08",
+        "role": "user",
+        "pending_reqs": [],
+        "connections": [
+            "raja"
+        ]
+    }
+}
